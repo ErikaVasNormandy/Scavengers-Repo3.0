@@ -14,6 +14,7 @@ const Wrapper = styled.main.attrs({
   top: 30px;
   padding: 50px;
   box-shadow: 0 0 0 0, 0 6px 12px rgba(0, 0, 0, 0.1);
+  padding-top: 0px;
 
   @media (max-width: 780px) {
     width: 100%;
