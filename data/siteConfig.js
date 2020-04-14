@@ -36,7 +36,6 @@ module.exports = {
       url: '/projects',
     },
 
-
     {
       label: 'Sketchbook',
       url: '/sketchbook',
@@ -60,10 +59,10 @@ module.exports = {
           url: '/',
         },
 
-    	{
-     	 label: 'Projects',
-      	url: '/projects',
-    	},
+        {
+          label: 'Projects',
+          url: '/projects',
+        },
 
         {
           label: 'Sketchbook',

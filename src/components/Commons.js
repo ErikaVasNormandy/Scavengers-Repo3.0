@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { createGlobalStyle } from 'styled-components'
 import { Link } from 'gatsby'
 import { colors } from '../tokens'
+import './fonts.css';
 
 export const GlobalStyle = createGlobalStyle`
 * {
@@ -12,9 +13,21 @@ export const GlobalStyle = createGlobalStyle`
 }
 
 body {
-  font-family: "Lato", sans-serif;
   color: ${colors.text};
+ font-family: 'Alegreya SC', serif;
   background-color: ${colors.background};
+}
+main{
+  font-family: 'Raleway', serif;
+}
+.Header {
+  font-family: 'Alegreya SC', serif;
+}
+.Hero__HeroTitle-bsMUhi stZVm{
+ font-family: 'Alegreya SC', serif;
+}
+.Hero__HeroSubTitle-kAGpqa eFiFuY{
+ font-family: 'Alegreya SC', serif;
 }
 
 img {

@@ -23,7 +23,7 @@ export default {
   textLightestHover: colors.grey200,
   textLight: '#57595d',
   primary: colors.grey500,
-  primaryAlpha: `rgba(32, 35, 42, 0.85)`,
+  primaryAlpha: `rgba(36,38,41,0.80)`,
   text: colors.grey500,
   background: '#f4f8fb',
   backgroundArticle: colors.white,

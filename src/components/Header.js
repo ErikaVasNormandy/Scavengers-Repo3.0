@@ -29,7 +29,7 @@ const HeaderNav = styled.nav`
   height: 60px;
   display: flex;
   flex-direction: row;
-  max-width: 770px;
+  
   z-index: 1000;
   justify-content: space-between;
   overflow-x: auto;
